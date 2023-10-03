@@ -59,7 +59,6 @@ def computer_game(field):
     """Автоматическая игра компьютером"""
     count, win = 0, False
     choice = list(range(1, size * size + 1))
-    print(choice)
 
     while not win:
         draw(field)
