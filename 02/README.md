@@ -8,3 +8,7 @@
 # Проверка корректности и стиля кода с помощью pylint:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/pylint_decorator.png)
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/pylint_test.png)
+
+# Демонстрация работы программ:
+![Image alt](https://github.com/VetaShine/OOPch/blob/main/test1.png)
+![Image alt](https://github.com/VetaShine/OOPch/blob/main/test2.png)
