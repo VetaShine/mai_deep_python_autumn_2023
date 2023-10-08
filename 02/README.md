@@ -12,3 +12,6 @@
 # Демонстрация работы программ:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/test1.png)
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/test2.png)
+
+# Cтепень покрытия тестами с помощью библиотеки coverage:
+![Image alt](https://github.com/VetaShine/OOPch/blob/main/coverage.png)
