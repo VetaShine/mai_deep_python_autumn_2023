@@ -6,12 +6,16 @@
 # Тестирование работы программы:
 # 1. Сравнение использования weakref и слотов
 # Создание пачки экземпляров:
+Классы со слотами и атрибутами weakref имеют лучшие указатели чем обычные ссылки.
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_2.png)
 # Доступ к атрибутам:
+Классы со слотами имеют значительный отрыв по времени.
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_3.png)
 # Изменение атрибутов:
+При изменении обычные ссылки показали себя лучше других.
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_4.png)
 # Удаление атрибутов:
+При удалении обычные ссылки также показали себя лучше других.
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_5.png)
 # 2. Профилирование
 # Профилирование вызовов:
@@ -26,6 +30,5 @@
 # 4) Удаление атрибутов:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_9.png)
 # Профилирование памяти:
-![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_10.png)
 Классы со слотами значительно экономят память в отличие от других вариантов классов.
-
+![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_10.png)
