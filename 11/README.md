@@ -27,4 +27,5 @@
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_9.png)
 # Профилирование памяти:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_10.png)
+Классы со слотами значительно экономят память в отличие от других вариантов классов.
 
