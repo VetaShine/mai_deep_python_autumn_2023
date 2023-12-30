@@ -19,9 +19,11 @@
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_6.png)
 2. Доступ к атрибутам:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_7.png)
-3. Изменение атрибутов:
+![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_7_1.png)
+![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_7_2.png)
+4. Изменение атрибутов:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_8.png)
-4. Удаление атрибутов:
+5. Удаление атрибутов:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_9.png)
 Профилирование памяти:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_10.png)
