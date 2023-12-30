@@ -5,26 +5,26 @@
 
 # Тестирование работы программы:
 # 1. Сравнение использования weakref и слотов
-Создание пачки экземпляров:
+# Создание пачки экземпляров:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_2.png)
-Доступ к атрибутам:
+# Доступ к атрибутам:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_3.png)
-Изменение атрибутов:
+# Изменение атрибутов:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_4.png)
-Удаление атрибутов:
+# Удаление атрибутов:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_5.png)
 # 2. Профилирование
-Профилирование вызовов:
-1. Создание пачки экземпляров:
+# Профилирование вызовов:
+# 1) Создание пачки экземпляров:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_6.png)
-2. Доступ к атрибутам:
+# 2) Доступ к атрибутам:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_7.png)
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_7_1.png)
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_7_2.png)
-4. Изменение атрибутов:
+# 3) Изменение атрибутов:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_8.png)
-5. Удаление атрибутов:
+# 4) Удаление атрибутов:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_9.png)
-Профилирование памяти:
+# Профилирование памяти:
 ![Image alt](https://github.com/VetaShine/OOPch/blob/main/hw11_10.png)
 
